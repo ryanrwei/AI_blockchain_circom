@@ -7,8 +7,8 @@
 
 1. create input.json:
 
-- the content would:
-  // feel free to change the value
+- the content would be as following (feel free to change the value to validate):
+
   {
   "publicSquare": 4,
   "secretRoot": 2
